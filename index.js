@@ -1,7 +1,7 @@
 const moment = require("moment")
 
+const functions = require("./functions")
 
-const textoHora = "La hora es: "
 
 
-console.log( textoHora + moment().format("hh:mm:ss") )
+console.log( functions.currentTime() )
