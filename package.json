@@ -1,0 +1,14 @@
+{
+  "name": "reloj-node",
+  "version": "0.0.1",
+  "description": "Un reloj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "furenku",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
